@@ -1,0 +1,100 @@
+body {
+    
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+   background-color:peachpuff;
+    }
+
+
+h1 {
+    color:rgb(22, 14, 17);
+    
+}
+
+
+
+#simple-text{
+    color:blue;
+}
+
+.myclass{
+    font-size: 30px;
+}
+
+.red {
+    color: red;
+}
+
+.site-header {
+    
+    background: yellowgreen;
+    padding: 20px 10px;
+    text-transform: uppercase;
+    box-shadow: 0 1px 1px green;
+}
+
+.site-header h1 {
+    margin: 0;
+}
+
+
+.main-menu ul{
+    padding: 0;
+    margin: 0;
+}
+
+.main-menu ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.main-menu ul li a{
+    margin: 50px;
+    text-decoration: none;
+}
+
+.main-menu ul li a:hover{
+    color: coral;
+    cursor: pointer;
+}
+
+.infosites {
+    text-align: center;
+    background-color: darkseagreen;
+    padding: 50px;
+}
+
+.infosites h1 {
+    margin-top: 0;
+    color: #fff;
+   }
+
+   .img {
+    height: 20px;
+   }
+   
+   .button {
+    display: inline-block;
+    background: #2196f3;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+    cursor: pointer;
+  }
+  
+  div {
+    margin: 24px;
+    text-align: center;
+  }
+
+  
